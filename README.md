@@ -1,5 +1,6 @@
 # PRJNA661970
-re-analysis of study  PRJNA661970 from paper [Pathological and molecular examinations of postmortem testis biopsies reveal SARS-CoV-2 infection in the testis and spermatogenesis damage in COVID-19 patients](https://www.nature.com/articles/s41423-020-00604-5#Sec2) using [nfcore-rnaseq version 2.0 ](https://nf-co.re/rnaseq/2.0/usage)
+
+re-analysis of study  [PRJNA661970](https://www.ncbi.nlm.nih.gov/sra/SRX9086401[accn]) from paper [Pathological and molecular examinations of postmortem testis biopsies reveal SARS-CoV-2 infection in the testis and spermatogenesis damage in COVID-19 patients](https://www.nature.com/articles/s41423-020-00604-5#Sec2) using [nfcore-rnaseq version 2.0 ](https://nf-co.re/rnaseq/2.0/usage)
 
 
 ## From Paper
