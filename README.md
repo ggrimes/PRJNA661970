@@ -2,6 +2,19 @@
 
 re-analysis of study  [PRJNA661970](https://www.ncbi.nlm.nih.gov/sra/SRX9086401[accn]) from paper [Pathological and molecular examinations of postmortem testis biopsies reveal SARS-CoV-2 infection in the testis and spermatogenesis damage in COVID-19 patients](https://www.nature.com/articles/s41423-020-00604-5#Sec2) using [nfcore-rnaseq version 2.0 ](https://nf-co.re/rnaseq/2.0/usage)
 
+## Data
+
+### SRX9086401: RNA-Seq of COVID-19 patient: adult male testis
+
+1 ILLUMINA (Illumina NovaSeq 6000) run: 23.5M spots, 7G bases, 2.2Gb downloads
+
+
+### Design 
+
+RNA was used from each sample to prepare RNA sequencing library using Ribo-off rRNA Depletion Kit (Human/Mouse/Rat) (Cat. MRZG12324, Illumina) and KC-DigitalTM Stranded mRNA Library Prep Kit for Illumina (Cat. DR08502, Wuhan Seqhealth Co., Ltd. China) following the manufacturers instruction. The kit eliminates duplication bias in PCR and sequencing steps, by using a unique molecular identifier (UMI) of 8 random bases to label the pre-amplified cDNA molecules. The library products corresponding to 200-500 bps were enriched and quantified.
+
+### Submitted by: Huazhong University of Science and Technology
+
 
 ## From Paper
 
